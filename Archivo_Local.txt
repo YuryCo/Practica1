@@ -1,0 +1,2 @@
+Texto Local Para el segundo Commit
+Modificado para GUI
